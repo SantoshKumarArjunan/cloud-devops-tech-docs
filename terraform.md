@@ -8,3 +8,4 @@
 6. Important: Prepare for Terraform Certification at https://developer.hashicorp.com/terraform/tutorials/certification-003?ajs_aid=88da5ddc-3e85-4e21-bbb9-40606e7fd039&product_intent=terraform
 7. Register for Exam - possible only via GitHub login at https://cp.certmetrics.com/hashicorp/en/home/requirements
 8. Terraform Certification Dashboard page to schedule exam at https://cp.certmetrics.com/hashicorp/en/home/dashboard
+9. PSI Exam schedule at https://home.psiexams.com/#/dashboard/regular-dashboard via above dashboard
