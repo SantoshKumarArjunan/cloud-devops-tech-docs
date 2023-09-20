@@ -14,3 +14,4 @@
 12. FreeCodeCamp.org Terraform Associate Certification Course - https://www.youtube.com/watch?v=SPcwo0Gq9T8
 13. Hashicorp licence change at https://thenewstack.io/hashicorp-abandons-open-source-for-business-source-license/
 14. Hashicorp alternative is Open Tofu at https://opentofu.org/blog/opentofu-announces-fork-of-terraform/
+15. Linux Foundation announcement about Open Tofu at https://www.linuxfoundation.org/press/announcing-opentofu
