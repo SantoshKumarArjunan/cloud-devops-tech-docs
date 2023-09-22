@@ -15,3 +15,7 @@
 13. Hashicorp licence change at https://thenewstack.io/hashicorp-abandons-open-source-for-business-source-license/
 14. Hashicorp alternative is Open Tofu at https://opentofu.org/blog/opentofu-announces-fork-of-terraform/
 15. Linux Foundation announcement about Open Tofu at https://www.linuxfoundation.org/press/announcing-opentofu
+16. Study book at https://www.wolf.university/terraformupandrunning2ndedition/ebook/terraformupandrunning2ndedition.pdf
+17. Book autho blog at https://blog.gruntwork.io/terraform-up-running-3rd-edition-early-release-is-now-available-4efd0eb2ce0a
+18. Code examples from the book at https://github.com/brikis98/terraform-up-and-running-code
+19. Other book location at https://github.com/vaibhavsahu/Books/blob/master/dev-ops/terraform/terraform-up-and-running.pdf
