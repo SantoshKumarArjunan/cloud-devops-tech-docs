@@ -2,7 +2,13 @@
 
 W3Schools online AWS Free courses at https://www.w3schools.com/training/aws/home/
 
-Python FastAPI Handbook at https://www.freecodecamp.org/news/fastapi-quickstart/
+Python FastAPI Handbook at 
+https://www.freecodecamp.org/news/fastapi-quickstart/
+https://kinsta.com/blog/fastapi/
+https://sumanta9090.medium.com/deploying-a-fastapi-application-on-kubernetes-a-step-by-step-guide-for-production-d74faac4ca36
+https://www.tutorialspoint.com/fastapi/index.htm
+https://fastapi.tiangolo.com/#requirements
+
 
 
 1. Introduction to Kubernetes at https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+1T2022/home available until end of 2023
