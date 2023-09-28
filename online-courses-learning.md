@@ -2,6 +2,9 @@
 
 W3Schools online AWS Free courses at https://www.w3schools.com/training/aws/home/
 
+Python FastAPI Handbook at https://www.freecodecamp.org/news/fastapi-quickstart/
+
+
 1. Introduction to Kubernetes at https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+1T2022/home available until end of 2023
 2. The Linux Foundation: Introduction to Serverless on Kubernetes at 
 Learn how to build serverless functions that can be run on any cloud without being restricted by limits on the execution duration, languages available, or the size of your code.
